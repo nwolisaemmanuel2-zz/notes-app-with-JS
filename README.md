@@ -1,1 +1,1 @@
-# notes-app-with-JS
+# note-app-with-JS
